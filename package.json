@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "gokuls blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog that i created for sharig my view about space-time",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "GOKUL AIR <gokulkbalachandran@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/gokintosh/gokul-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.19.45",
@@ -38,7 +38,7 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://gokulkannamballybalachandran.netlify.com",
   "keywords": [
     "gatsby"
   ],
