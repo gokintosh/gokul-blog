@@ -1,5 +1,5 @@
 {
-  "name": "gokuls blog",
+  "name": "gokuls-blog",
   "private": true,
   "description": "A blog that i created for sharig my view about space-time",
   "version": "0.1.0",
@@ -39,14 +39,12 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://gokulkannamballybalachandran.netlify.com",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git@github.com:gokintosh/gokul-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
